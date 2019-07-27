@@ -1,0 +1,42 @@
+.header{
+    font-family: 'Londrina Shadow', cursive;
+    text-align: center;
+    font-size: 200%;   
+}
+
+#calculator {
+    width: 30%;
+    height:auto;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #b7c8cb;
+    padding-top: 30px;
+}
+
+.display {
+    border: #1e1e2c solid 2px;
+    width: 80%;
+    height: 60px;
+    padding-top: 5px;
+    text-align: center;
+    float: none;
+    margin: auto;
+}
+
+#backspace{
+    border-radius: 0;
+    background-color: white;
+    height: 50px;
+    float: right;
+    margin-right: 80px;
+}
+
+#clear{
+    border-radius: 0;
+    background-color:;
+    height: 50px;
+    float: right;
+    margin-right: 20px;
+}
+
