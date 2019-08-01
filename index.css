@@ -1,3 +1,12 @@
+body{
+    background: white;
+    font-size: 22px;
+}
+html{
+    height: 100%;
+
+}
+
 .header{
     font-family: 'Londrina Shadow', cursive;
     text-align: center;
@@ -39,4 +48,22 @@
     float: right;
     margin-right: 20px;
 }
+.clearBackspace{
+    margin-top: 40px;
+    width: 100%;
+}
+button{
+    margin: 8px;
+    border-radius: 38px;
+    width: 80px;
+    height: 80px;
+    border: none;
+    background-color: white;
+}
+button.hover{
+    background-color: #88d9f3;
+    color: white;
+
+}
+
 
